@@ -1,0 +1,6 @@
+database/autotrust.db 
+keys/ 
+certificates/ 
+*.pyc 
+__pycache__/ 
+autotrust.log 
